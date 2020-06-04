@@ -1,0 +1,105 @@
+
+* {
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    border:1px solid grey;
+}
+body{
+color: black;
+text-align: center;}
+
+
+
+.plan{
+    background-color: #FF764E; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.learn{
+    display:inline-block;
+    background-color: #5ED3EB; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 50px,;
+}
+.get{
+    background-color: #FFCD69; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+#go {
+    border-radius: 50%;
+    width: 24%;
+    display: inline-block;
+    
+}
+
+#park-guide {
+    width: 75%;
+    display: inline-block;
+    
+}
+  
+
+.top h1 {
+    font-family:cursive;
+    
+}
+div.words{
+    width:80%;
+    margin: 0 auto;
+    padding: 30px;
+    background-color:#DDB9A3;
+    color: white;
+} 
+div.pics img{
+    height:5%;
+    width:10%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+} 
+div.pics p{
+    margin-left:auto;
+    margin-right:auto;
+    width: 300px;
+    font-size: 15px;
+    
+
+}
+#mountain {
+    object-fit: scale-down;
+}
+#footer {
+    background-color: #F9E7DC;
+}
+
+
+
+
+
+
