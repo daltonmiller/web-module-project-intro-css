@@ -4,7 +4,7 @@
     padding:0;
     margin:0;
     max-width:100%;
-    border:1px solid grey;
+    /* border:1px solid grey; */
 }
 body{
 color: black;
@@ -52,7 +52,7 @@ text-align: center;}
 
 #go {
     border-radius: 50%;
-    width: 24%;
+    width: 14%;
     display: inline-block;
     
 }
@@ -69,8 +69,8 @@ text-align: center;}
     
 }
 div.words{
-    width:80%;
-    margin: 0 auto;
+    width:100%;
+    margin: 5%;
     padding: 30px;
     background-color:#DDB9A3;
     color: white;
@@ -91,8 +91,9 @@ div.pics p{
     
 
 }
-#mountain {
-    object-fit: scale-down;
+#footer img {
+height: 50%;
+   
 }
 #footer {
     background-color: #F9E7DC;
